@@ -1,16 +1,16 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/loop-shelf-dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/loop-shelf-light.gif">
-  <img src="./assets/loop-shelf-light.gif" width="100%" alt="DmitriyMih. The cat tips a marked marble off its shelf and waits for it to fly back.">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/triple-shelf-dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/triple-shelf-light.gif">
+  <img src="./assets/triple-shelf-light.gif" width="100%" alt="DmitriyMih. A marble drops onto the shelf. The cat tips it over the edge.">
 </picture>
 
 <details>
 <summary>pspsps…</summary>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/loop-track-dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/loop-track-light.gif">
-  <img src="./assets/loop-track-light.gif" width="100%" alt="The marble lowers a lift, rolls across a bridge, tips a row of dominoes and returns to the shelf on a spring.">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/triple-track-dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/triple-track-light.gif">
+  <img src="./assets/triple-track-light.gif" width="100%" alt="The marble rolls through three shrinking loops, leaps over a jumping cat and flies off the final ramp before falling out of view.">
 </picture>
 
 </details>
