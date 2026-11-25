@@ -1,17 +1,16 @@
-<img src="./assets/portal.gif" width="100%" alt="DmitriyMih · Portal maintenance. A dot falls off the name, travels through two portals and lands back on its i. Lost and found: where do the missing dots go?">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/cat-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/cat-light.png">
+  <img src="./assets/cat-light.png" width="100%" alt="A cat looks towards DmitriyMih.">
+</picture>
 
 <details>
-<summary>Open the drawer</summary>
+<summary>pspsps…</summary>
 
-<img src="./assets/drawer.png" width="100%" alt="Three spare dots, one for each i in DmitriyMih.">
-
-</details>
-
-<details>
-<summary>Knock on the wall</summary>
-
-<img src="./assets/wall.gif" width="100%" alt="Someone is home. Two pale eyes look around in the dark and blink.">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/cats-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/cats-light.png">
+  <img src="./assets/cats-light.png" width="65%" alt="Five cats have answered the call.">
+</picture>
 
 </details>
-
-<img src="./assets/hatch.png" width="100%" alt="Service hatch 01">
